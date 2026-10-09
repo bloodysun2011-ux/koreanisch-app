@@ -1,0 +1,10 @@
+
+{
+  "schemaVersion": 1,
+  "versionCode": 2,
+  "versionName": "1.1.0",
+  "apkUrl": "https://github.com/bloodysun2011-ux/koreanisch-app/releases/download/v1.1/Haru-1.1-debug.apk",
+  "releaseNotes": "Version 1.1: Automatische Updates, verbesserte Stabilität und Erhalt des Lernfortschritts.",
+  "sha256": "585cbfffc9dcf3fbc6c349656d4f1275a82c73a6b7116509393b1c9e6b5d20dc",
+  "minSdk": 26
+}
