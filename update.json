@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "versionCode": 3,
-  "versionName": "1.2.0",
-  "apkUrl": "https://github.com/bloodysun2011-ux/koreanisch-app/releases/download/v1.2/Haru-1.2-debug.apk",
-  "releaseNotes": "Haru 1.2.0: Testversion für automatische App-Updates. Lernstände, XP, abgeschlossene Lektionen, Favoriten, Einstellungen und die gespeicherte Update-Adresse bleiben erhalten.",
-  "sha256": "3e8a80f40d5323c4092bccba6d4f1f06a27c86ee319e7baf486768df575faa70",
+  "versionCode": 4,
+  "versionName": "1.3.0",
+  "apkUrl": "https://github.com/bloodysun2011-ux/koreanisch-app/releases/download/v1.3/Haru-1.3-debug.apk",
+  "releaseNotes": "Haru 1.3.0: Neun lizenzierte lokale koreanische Aufnahmen sowie Android-Sprachausgabe mit Stimmenwahl, Tempo, Netzwerkstimmen und lokalem Ersatz ohne kostenpflichtige Sprach-APIs. Lernstände, XP, abgeschlossene Lektionen, Favoriten, Einstellungen und die gespeicherte Update-Adresse bleiben erhalten.",
+  "sha256": "2aa3120b574c9cd02df85062f21965d74eb21737733e8397c1b9ae87b07716c5",
   "minSdk": 26
 }
