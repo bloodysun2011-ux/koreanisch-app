@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "versionCode": 8,
-  "versionName": "1.6.1",
-  "apkUrl": "https://github.com/bloodysun2011-ux/koreanisch-app/releases/download/v1.6.1/Haru-1.6.1-debug.apk",
-  "releaseNotes": "Haru 1.6.1: Antworten und Satzbausteine ausdrücklich von links nach rechts, linksbündige koreanische Texteingabe und zuverlässige Cursorposition bei Silben-Schaltflächen. Unterricht, vollständiges lokales Sprachpaket, Lernfortschritt und Updateadresse bleiben erhalten",
-  "sha256": "02674720ae5de711632459d4ed2d617f596e138adb827dc88bf5b3799c3b0bd4",
+  "versionCode": 9,
+  "versionName": "1.7.0",
+  "apkUrl": "https://github.com/bloodysun2011-ux/koreanisch-app/releases/download/v1.7/Haru-1.7-debug.apk",
+  "releaseNotes": "Haru 1.7.0: Modernes violettes Design mit dauerhaft speicherbarem dunklem Design und direkten Lernzugängen. Alphabettafel mit 40 Buchstabenformen, vertieften Buchstabenerklärungen in Hangul-Lektionen, Silbenkombinationen und lokalen Hörbeispielen. Durchsuchbare Sammlung aller 34 Lerninhalte mit Themenfiltern und Merkliste. Lernstand, Sprachausgabe und Updateadresse bleiben erhalten.",
+  "sha256": "876f13b7d394b99123048295bde28b3d0352cddcb6903846ffd91a161cc5dc6c",
   "minSdk": 26
 }
