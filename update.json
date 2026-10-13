@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "versionCode": 10,
-  "versionName": "1.8.0",
-  "apkUrl": "https://github.com/bloodysun2011-ux/koreanisch-app/releases/download/v1.8/Haru-1.8-debug.apk",
-  "releaseNotes": "Haru 1.8.0: Zehn eigene Offline-Videolektionen mit dem animierten Drachen Bori, deutschen Erklärungen, koreanischen Hörbeispielen und Übungen danach. 24 Lernbilder, vier Bildantworten pro Hörfrage, 30 neue Wörter und Alltagssätze, adaptive Schwierigkeit, Lücken und Hörschreiben sowie zehn Situationsaufgaben. Koreanische Vorlage und Umschrift beim Nachschreiben. Alle 64 Lerninhalte lokal vertont; bisherige Lernstände, Einstellungen, Inhalte und Updateadresse bleiben erhalten.",
-  "sha256": "81c20c4202b640a9765546ee5eaeaff6f820fdd3eadd18ad9f1b08537f5f10a3",
+  "versionCode": 11,
+  "versionName": "1.8.1",
+  "apkUrl": "https://github.com/bloodysun2011-ux/koreanisch-app/releases/download/v1.8.1/Haru-1.8.1-debug.apk",
+  "releaseNotes": "Reparatur der Offline-Videolektionen: stabile Player-Initialisierung, Ladezustand bis zum ersten Bild, 15-Sekunden-Timeout, verständliche Fehler mit Wiederholen und zuverlässige Pausen/Neustarts. Alle zehn Videos, Lernstände, Einstellungen und bisherigen Inhalte bleiben erhalten.",
+  "sha256": "bf7220db44aabdef5f200868e340f95b805c9f96fe23a4bed89e639207fa7900",
   "minSdk": 26
 }
